@@ -1,3 +1,1 @@
-henixの相談
-
-blog via [issue list](https://github.com/henix/blog/issues)
+see [issue list](https://github.com/henix/blog/issues)
